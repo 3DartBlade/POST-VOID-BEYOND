@@ -12,6 +12,8 @@ Changes:
 - Changed the epilepsy warning (just for fun, but please be aware that this game can easily trigger an epileptic seizure!)
 - At the start of each level it now shows the act, AND the level you are on, making it easier to keep track of what level you are on (i.e.: first level "[Act 1]", second level "[Act 1 - Level 2]", fourth level "[Act 2]", fifth level "[Act 2 - Level 2]" etc.)
 
+
+
 How to play:
 - Download the "data.win" file
 - Locate the game's folder
@@ -25,4 +27,5 @@ Alternatively:
 - Rename the data.win file to anything you would like, keeping the .win extention (e.g.: beyond.win)
 - Add the argument "-game ./Renamed.win" to the game on Steam (how-to:https://gaming.stackexchange.com/questions/28392/how-to-add-a-command-line-argument-to-a-steam-game) or create a shortcut to the game and add the argument at the end of that (how-to: https://www.digitalcitizen.life/shortcut-arguments-parameters-windows/)
 - Launch the game either from Steam, or with the new shortcut
+
 (Using shortcuts like this allows you to quickly and easily launch either version)
