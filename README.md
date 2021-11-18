@@ -25,7 +25,7 @@ Alternatively:
 - Download the "data.win" file
 - Locate the game's folder
 - Rename the downloaded "data.win" file to anything you would like, keeping the ".win" extention (e.g.: beyond.win)
-- Add the argument "-game ./Renamed.win" to the game on Steam (how-to:https://gaming.stackexchange.com/questions/28392/how-to-add-a-command-line-argument-to-a-steam-game) or create a shortcut to the game's ".exe file" and add the argument at the end of that (how-to: https://www.digitalcitizen.life/shortcut-arguments-parameters-windows/)
+- Add the argument "-game ./Renamed.win" to the game on Steam (how-to:https://gaming.stackexchange.com/questions/28392/how-to-add-a-command-line-argument-to-a-steam-game) or create a shortcut to the game's ".exe" file and add the argument at the end of that (how-to: https://www.digitalcitizen.life/shortcut-arguments-parameters-windows/)
 - Launch the game either from Steam, or with the new shortcut
 
 (Using shortcuts like this allows you to quickly and easily launch either version)
